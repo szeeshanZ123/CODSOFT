@@ -1,66 +1,54 @@
-# 🚢 Titanic Survival Prediction
+# 🚀 CodSoft Data Science Internship Projects
 
-## 📌 Project Overview
-This project aims to predict whether a passenger survived the Titanic disaster using machine learning techniques. The dataset contains information such as age, gender, ticket class, fare, and more.
-
----
-
-## 📊 Dataset
-The dataset includes the following features:
-- PassengerId
-- Pclass (Ticket Class)
-- Name
-- Sex
-- Age
-- SibSp (Siblings/Spouses aboard)
-- Parch (Parents/Children aboard)
-- Ticket
-- Fare
-- Embarked
-- Survived (Target Variable)
+This repository contains all the tasks and projects completed during my **Data Science Internship at CodSoft**. These projects demonstrate my skills in data analysis, visualization, and machine learning using Python.
 
 ---
 
-## 🧹 Data Preprocessing
-- Removed **Cabin** column due to excessive missing values  
-- Filled missing values in **Age** using median  
-- Filled missing values in **Embarked** using mode  
-- Converted categorical data into numerical format  
+# 📂 Projects Included
+
+## 🚢 1. Titanic Survival Prediction
+
+### 📌 Overview
+This project predicts whether a passenger survived the Titanic disaster using machine learning.
+
+### 🔹 Key Steps:
+- Data Cleaning (handled missing values)
+- Exploratory Data Analysis (EDA)
+- Feature Selection & Preprocessing
+- Logistic Regression Model
+
+### 📊 Result:
+- Achieved ~81% accuracy
+
+### 🔍 Key Insights:
+- Females had higher survival rates
+- Higher-class passengers were more likely to survive
+- Age and fare influenced survival
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
-- Analyzed survival distribution  
-- Compared survival based on gender and passenger class  
-- Visualized age distribution  
-- Generated correlation heatmap  
+## 🌸 2. Iris Flower Classification
+
+### 📌 Overview
+This project classifies iris flowers into three species based on their measurements.
+
+### 🔹 Key Steps:
+- Data Understanding
+- Exploratory Data Analysis (EDA)
+- Feature Selection
+- Logistic Regression Model
+
+### 📊 Result:
+- Achieved 100% accuracy
+
+### 🔍 Key Insights:
+- Petal length and width are strong indicators of species
+- The dataset is well-structured for classification tasks
 
 ---
 
-## 🤖 Machine Learning Model
-- Model Used: **Logistic Regression**  
-- Data split into training and testing sets (80/20)  
-- Trained model using Scikit-learn  
+# 🛠️ Tools & Technologies
 
----
-
-## 📊 Model Performance
-- **Accuracy:** ~81%  
-- Evaluated using:
-  - Accuracy Score  
-  - Confusion Matrix  
-  - Classification Report  
-
----
-
-## 🔍 Key Insights
-- Females had a higher survival rate than males  
-- Passengers in higher classes had better survival chances  
-- Age and fare also influenced survival  
-
----
-
-## 🛠️ Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -70,9 +58,26 @@ The dataset includes the following features:
 
 ---
 
-## 🚀 Conclusion
-The model successfully predicts survival with good accuracy. This project demonstrates the complete data science workflow including data cleaning, visualization, and machine learning.
+# 📈 Skills Gained
+
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Machine Learning (Classification)  
+- Model Evaluation  
+- Data Visualization  
+
 
 ---
 
-## 📂 Repository Structure
+# 🚀 Conclusion
+
+These projects helped me understand the complete data science workflow—from data preprocessing and visualization to building and evaluating machine learning models.
+
+---
+
+# 🙌 Acknowledgment
+
+This work is part of my **Data Science Internship at CodSoft**.
+
+
+
