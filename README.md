@@ -1,6 +1,6 @@
 # 🚀 CodSoft Data Science Internship Projects
 
-This repository contains all the tasks and projects completed during my **Data Science Internship at CodSoft**. These projects demonstrate my skills in data analysis, visualization, and machine learning using Python.
+This repository contains projects completed during my **Data Science Internship at CodSoft**. These projects demonstrate my skills in data analysis, visualization, and machine learning using Python.
 
 ---
 
@@ -9,7 +9,7 @@ This repository contains all the tasks and projects completed during my **Data S
 ## 🚢 1. Titanic Survival Prediction
 
 ### 📌 Overview
-This project predicts whether a passenger survived the Titanic disaster using machine learning.
+Built a machine learning model to predict whether a passenger survived the Titanic disaster.
 
 ### 🔹 Key Steps:
 - Data Cleaning (handled missing values)
@@ -30,7 +30,7 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 ## 🌸 2. Iris Flower Classification
 
 ### 📌 Overview
-This project classifies iris flowers into three species based on their measurements.
+Developed a classification model to classify iris flowers into different species.
 
 ### 🔹 Key Steps:
 - Data Understanding
@@ -43,7 +43,28 @@ This project classifies iris flowers into three species based on their measureme
 
 ### 🔍 Key Insights:
 - Petal length and width are strong indicators of species
-- The dataset is well-structured for classification tasks
+- The dataset is well-structured and easily separable
+
+---
+
+## 📊 3. Sales Prediction using Machine Learning
+
+### 📌 Overview
+Built a regression model to predict sales based on advertising expenditure across different platforms.
+
+### 🔹 Key Steps:
+- Data Loading & Understanding
+- Exploratory Data Analysis (EDA)
+- Feature Selection
+- Linear Regression Model
+
+### 📊 Result:
+- Achieved R² Score of ~0.90
+
+### 🔍 Key Insights:
+- TV advertising has the strongest impact on sales
+- Radio has moderate influence
+- Newspaper has minimal effect
 
 ---
 
@@ -62,22 +83,20 @@ This project classifies iris flowers into three species based on their measureme
 
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
-- Machine Learning (Classification)  
+- Machine Learning (Classification & Regression)  
 - Model Evaluation  
 - Data Visualization  
-
 
 ---
 
 # 🚀 Conclusion
 
-These projects helped me understand the complete data science workflow—from data preprocessing and visualization to building and evaluating machine learning models.
+These projects demonstrate a complete data science workflow—from data preprocessing and visualization to building and evaluating machine learning models.
 
 ---
 
 # 🙌 Acknowledgment
 
 This work is part of my **Data Science Internship at CodSoft**.
-
 
 
