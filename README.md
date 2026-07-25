@@ -1,6 +1,6 @@
-# 🚀 CodSoft Data Science Internship Projects
+# 🚀 Data Science Projects
 
-This repository contains projects completed during my **Data Science Internship at CodSoft**. These projects demonstrate my skills in data analysis, visualization, and machine learning using Python.
+This repository contains **Data Science projects** built as part of my learning journey. These projects demonstrate my skills in data analysis, data visualization, and machine learning using Python.
 
 ---
 
@@ -59,44 +59,44 @@ Built a regression model to predict sales based on advertising expenditure acros
 - Linear Regression Model
 
 ### 📊 Result:
-- Achieved R² Score of ~0.90
+- Achieved an R² Score of ~0.90
 
 ### 🔍 Key Insights:
 - TV advertising has the strongest impact on sales
 - Radio has moderate influence
-- Newspaper has minimal effect
+- Newspaper has minimal influence
 
 ---
 
 # 🛠️ Tools & Technologies
 
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ---
 
-# 📈 Skills Gained
+# 📈 Skills Demonstrated
 
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Machine Learning (Classification & Regression)  
-- Model Evaluation  
-- Data Visualization  
-
----
-
-# 🚀 Conclusion
-
-These projects demonstrate a complete data science workflow—from data preprocessing and visualization to building and evaluating machine learning models.
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning (Classification & Regression)
+- Model Evaluation
+- Data Visualization
 
 ---
 
-# 🙌 Acknowledgment
+# 🚀 About This Repository
 
-This work is part of my **Data Science Internship at CodSoft**.
+These projects were created to strengthen my understanding of data science concepts and gain hands-on experience with real-world datasets. They showcase the complete data science workflow—from data preprocessing and visualization to building and evaluating machine learning models.
+
+---
+
+# 🙌 Note
+
+This repository is maintained as part of my personal learning journey and portfolio. It reflects my practical experience with data science techniques, machine learning algorithms, and Python-based data analysis.
 
 
